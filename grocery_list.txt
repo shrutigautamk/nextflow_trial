@@ -1,0 +1,3 @@
+cherries 
+strawberries 
+banana
